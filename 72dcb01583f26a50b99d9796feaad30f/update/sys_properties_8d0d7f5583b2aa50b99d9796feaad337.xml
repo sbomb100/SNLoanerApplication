@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_1791840_loaner_r.default.phone</name>
+        <read_roles>x_1791840_loaner_r.admin</read_roles>
+        <suffix>default.phone</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-17 05:21:08</sys_created_on>
+        <sys_id>8d0d7f5583b2aa50b99d9796feaad337</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1791840_loaner_r.default.phone</sys_name>
+        <sys_package display_value="Loaner Requeust" source="x_1791840_loaner_r">72dcb01583f26a50b99d9796feaad30f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Requeust">72dcb01583f26a50b99d9796feaad30f</sys_scope>
+        <sys_update_name>sys_properties_8d0d7f5583b2aa50b99d9796feaad337</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-17 05:21:08</sys_updated_on>
+        <type>string</type>
+        <value>Blackberry</value>
+        <write_roles>x_1791840_loaner_r.admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=8d0d7f5583b2aa50b99d9796feaad337"/>
+</record_update>
